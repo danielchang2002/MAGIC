@@ -4,6 +4,8 @@
 *.zip
 *.png
 *.svg
+*.html
+*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
